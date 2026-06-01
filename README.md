@@ -49,8 +49,12 @@ I'm passionate about the intersection of data engineering and analytics — writ
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarCaicedo33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCaicedo33&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=OscarCaicedo33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=OscarCaicedo33&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=OscarCaicedo33&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
