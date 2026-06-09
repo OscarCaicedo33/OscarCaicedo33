@@ -2,9 +2,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+3%2B+years+of+experience;Python+%7C+SQL+%7C+Power+BI;Building+data-driven+products" alt="Typing SVG" />
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oscarcaicedopulido31" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/oscarcaicedopulido31?trk=profile-badge">Oscar Caicedo</a>
+</div>
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oscarcaicedopulido31" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/oscarcaicedopulido31?trk=profile-badge">Oscar Caicedo</a></div>
+
               
 <p align="center">
   <a href="https://www.linkedin.com/in/oscarcaicedopulido31" target="_blank">
